@@ -1,0 +1,74 @@
+.Form {
+   position:fixed;
+   width: 40%;
+   z-index: 1;
+   top: 4%;
+   left: 30%;
+   right: 30%;
+   border: 1px black solid;
+   text-align: center;
+   background-color: rgb(252, 250, 250);
+   border-radius: 10px ;
+  padding: 0%;
+  display: none;
+  }
+.headline {
+   position: relative;
+   right:12%;
+   font-family:serif;
+   
+}  
+
+
+.edit_data_form_class{
+   position:fixed;
+   width: 60%;
+   z-index: 1;
+   top: 4%;
+   left: 20%;
+   right: 20%;
+   border: 1px black solid;
+   text-align: center;
+   background-color: rgb(224, 224, 224);
+   border-radius: 10px;
+  padding: 0%;
+  display: none;
+}
+
+
+.view_data_form_class{
+   position:fixed;
+   width: 60%;
+   z-index: 1;
+   top: 4%;
+   left: 20%;
+   right: 20%;
+   border: 1px black solid;
+   text-align: center;
+   background-color: rgb(224, 224, 224);
+   border-radius: 10px;
+  padding: 0%;
+  display:none;
+}
+
+
+.view_emp_data{
+      position: relative;
+      left: 5%;
+      right: 5%;
+      width: 90%;
+      text-align: center;
+  
+}
+.view_emp_data2{
+   position:absolute;
+   left: 400px;
+   text-align: center;
+
+}
+.view_emp_data1{
+   position: relative;
+   left: 120px;
+   text-align: center;
+
+}

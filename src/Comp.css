@@ -1,0 +1,9 @@
+.header {
+    background-color:rgba(148, 148, 148, 0.696);
+    border: 1px rgb(67, 65, 65) solid;
+    position: relative;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    text-align: center;
+}

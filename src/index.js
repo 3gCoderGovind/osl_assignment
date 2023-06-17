@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import TempElement from './user_data';
+import Add_form from './add_data_form';
+import Edit_form from './edit_data_form';
+import View_data_form from './view_data_form';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Add_form></Add_form>
+    <Edit_form></Edit_form>
+    <View_data_form></View_data_form>
+  <TempElement></TempElement>
   </React.StrictMode>
 );
 

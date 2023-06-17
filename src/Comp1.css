@@ -1,0 +1,16 @@
+.newComp {
+    background-color: rgba(222, 221, 221, 0.888);
+    border: 1px rgb(114, 113, 113) solid;
+    position: relative;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+
+}
+
+.newComp1 {
+    width: 15%;
+    border: 1px rgba(129, 129, 129, 0.888) solid;
+    text-align: center;
+}
+
